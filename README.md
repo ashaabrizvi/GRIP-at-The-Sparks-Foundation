@@ -1,6 +1,6 @@
 # GRIP-at-The-Sparks-Foundation
 
-This repository all the work of the Graduate Rotational Internship Program at The Sparks Foundation.
+This repository contains all the work of the Graduate Rotational Internship Program at The Sparks Foundation.
 
 There were four tasks as following :
 
