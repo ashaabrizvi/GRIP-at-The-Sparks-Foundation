@@ -10,4 +10,4 @@ There were four tasks as following :
 
 3. To Explore Decision Tree Algorithm
 
-4. To explore Business Analytics
+4. To Explore Business Analytics
